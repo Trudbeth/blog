@@ -1,1 +1,1 @@
-
+.github/workflows/hugo.yaml
